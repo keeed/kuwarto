@@ -9,8 +9,6 @@ namespace Kuwarto.Management.Tests
         public class Create_Should
         {
 
-            //room will have id and name
-            //room is inactive when no location and available schedule
 
             [Fact]
             public void InvokeRepositorySave()
